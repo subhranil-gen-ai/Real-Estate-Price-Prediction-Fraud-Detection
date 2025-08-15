@@ -21,3 +21,9 @@ This project predicts real estate prices and detects fraudulent listings using M
 
 # 📂 Project Structure
 - 🏠_Phase_0.ipynb : Initial phase of the project.
+
+#  Author
+Subhranil Dutta
+CSE | GenAI & DSA Learner | Python Developer  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
+
