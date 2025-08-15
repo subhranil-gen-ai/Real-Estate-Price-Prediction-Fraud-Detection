@@ -7,7 +7,7 @@ This project predicts real estate prices and detects fraudulent listings using M
   - Predict real estate prices based on property features.
   - Detect fraudulent property listings to prevent scams.
 
-# 📌 Features
+# ✨ Features
 - Data preprocessing and cleaning.
 - Exploratory Data Analysis (EDA) for insights.
 - Price prediction using regression models.
