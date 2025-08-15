@@ -6,6 +6,21 @@ This project predicts real estate prices and detects fraudulent listings using M
 - This project uses Machine Learning to both:
   - Predict real estate prices based on property features.
   - Detect fraudulent property listings to prevent scams.
+## 📂 Dataset Information  
+
+- **Source:** [Kaggle – India House Price Prediction](https://www.kaggle.com/datasets/ankushpanday1/india-house-price-prediction)  
+- **Size:** 39.2 MB  
+- **Format:** CSV  
+- **Shape:** 2,50,000 rows × 23 columns  
+- **Features Include (partial list):**  
+  - Location  
+  - Area (sq. ft.)  
+  - Bedrooms & Bathrooms  
+  - Year Built  
+  - Amenities & Furnishing Status  
+  - Listing Type & Price  
+  - Fraud Indicators  
+  - …and several other property-related attributes  
 
 # ✨ Features
 - Data preprocessing and cleaning.
