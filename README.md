@@ -39,6 +39,6 @@ This project predicts real estate prices and detects fraudulent listings using M
 
 #  Author
 Subhranil Dutta
-CSE | GenAI Learner | AI & ML Enthusiast |Python Developer  
+CSE | GenAI Learner | AI & ML Enthusiast | Python Developer  
 🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
 
