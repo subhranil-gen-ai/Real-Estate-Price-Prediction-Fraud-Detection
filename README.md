@@ -35,7 +35,7 @@ This project predicts real estate prices and detects fraudulent listings using M
 - Platform: Google Colab
 
 # 📂 Project Structure
-- 🏠_Phase_0.ipynb : Initial phase of the project.
+- Phase 0 – Data Foundation & Preprocessing : Initial phase of the project.
 
 #  Author
 Subhranil Dutta
