@@ -36,6 +36,7 @@ This project predicts real estate prices and detects fraudulent listings using M
 
 # 📂 Project Structure
 - Phase 0 – Data Foundation & Preprocessing : Initial phase of the project.
+- Phase_1_Model_Training_&_Evaluation.ipynb
 
 #  Author
 Subhranil Dutta
