@@ -18,8 +18,7 @@ This project predicts real estate prices and detects fraudulent listings using M
   - Bedrooms & Bathrooms  
   - Year Built  
   - Amenities & Furnishing Status  
-  - Listing Type & Price  
-  - Fraud Indicators  
+  - Listing Type & Price   
   - …and several other property-related attributes  
 
 # ✨ Features
