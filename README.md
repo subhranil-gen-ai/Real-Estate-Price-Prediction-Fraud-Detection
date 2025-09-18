@@ -1,30 +1,32 @@
-# 🏠 Real Estate Price Prediction & Fraud Detection  
+# Project Introduction
 
-This project predicts real estate prices and detects fraudulent property listings using Machine Learning.  
+This project leverages Machine Learning to predict real estate prices and detect fraudulent property listings. By analyzing historical property data and market trends, it aims to provide accurate pricing insights and identify potential scams.  
 
----
-
-## 📌 Overview
-- Predict real estate prices based on property features.  
-- Detect fraudulent property listings to prevent scams.  
-- Implemented a complete end-to-end ML workflow with preprocessing, feature engineering, model optimization, evaluation.  
+📅 *Start Date:* 15 Aug 2025  
+👨‍💻 *Developer:* Subhranil Dutta  
 
 ---
 
-## 📂 Dataset Information  
-- *Source:* [Kaggle – India House Price Prediction](https://www.kaggle.com/datasets/ankushpanday1/india-house-price-prediction)  
-- *Size:* 39.2 MB  
+## 📌 Project Goals
+1. Predict property prices accurately using historical data and market trends.  
+2. Detect fraudulent property listings to prevent scams.  
+3. Build an end-to-end ML workflow for real estate analysis.
+
+---
+
+## 💡 Why This Project Matters
+Real estate is one of the world’s largest industries, but pricing transparency and fraud detection remain major challenges.  
+This project uses AI to predict prices and spot unusual or fake listings, helping buyers, sellers, and property websites make safer and smarter choices.
+
+---
+
+## 📂 Dataset Information
+- *Source:*   [Kaggle – India House Price Prediction](https://www.kaggle.com/datasets/ankushpanday1/india-house-price-prediction)  
+- *Size:* 39.2 MB
 - *Format:* CSV  
-- *Shape:* ~2,50,000 rows × 23 columns  
-- *Features Include (partial list):*  
-  - Location  
-  - Area (sq. ft.)  
-  - Bedrooms & Bathrooms  
-  - Year Built  
-  - Amenities & Furnishing Status  
-  - Listing Type & Price  
-  - …and several other property-related attributes  
-
+- *Features Include:* Location, Area, Bedrooms, Bathrooms, Year Built, Amenities, Furnishing, Price.
+- *Target Variable:* Price_in_Lakhs
+  
 ---
 
 ## ✨ Features
@@ -34,8 +36,8 @@ This project predicts real estate prices and detects fraudulent property listing
 - Fraud detection using classification models (XGBoost, GridSearch tuned).  
 - Feature selection (Top-K features) and correlation analysis.  
 - Hyperparameter tuning with GridSearchCV & RandomizedSearchCV.  
-- Model evaluation using *RMSE, Precision, Recall, and F1 Score*.  
-- Final comparison: Baseline vs Tuned vs Feature-engineered models.  
+- Model evaluation using *RMSE, Accuracy, Precision, Recall, and F1 Score*.  
+- Final comparison: Baseline vs Tuned vs Top-k Features models.  
 
 ---
 
@@ -46,6 +48,14 @@ This project predicts real estate prices and detects fraudulent property listing
 - *Phase 3 – Hyperparameter Optimization* : Tuned regression & classification models using GridSearchCV and RandomizedSearchCV.  
 - *Phase 4 – Feature Engineering & Data Enhancement* : Implemented Top-K feature selection, correlation analysis, and data enrichment.  
 - *Phase 5 – Project Wrap-Up & Insights Documentation* : Final model comparisons, visualizations (feature importance, predicted vs actual, confusion matrix), and result storage.  
+
+---
+
+
+## 🛠 Tech Stack
+- *Language:* Python  
+- *Libraries:* Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy  
+- *Environment:* Google Colab  
 
 ---
 
