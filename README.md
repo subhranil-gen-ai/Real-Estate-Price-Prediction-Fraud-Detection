@@ -1,3 +1,7 @@
+# **🏠 Real Estate Price Prediction & Fraud Detection**
+
+---
+
 # Project Introduction
 
 This project leverages Machine Learning to predict real estate prices and detect fraudulent property listings. By analyzing historical property data and market trends, it aims to provide accurate pricing insights and identify potential scams.  
