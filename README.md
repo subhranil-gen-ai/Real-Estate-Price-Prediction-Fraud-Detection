@@ -69,7 +69,11 @@ This project uses AI to predict prices and spot unusual or fake listings, helpin
 - Models exported as .pkl.  
 
 ---
-  
+
+## ▶ How to Run
+1. Clone the repo  
+2. Open notebooks in Google Colab  
+3. Run cells step by step (phased order recommended)
 
 ---
 
