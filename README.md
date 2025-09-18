@@ -7,7 +7,7 @@ This project predicts real estate prices and detects fraudulent property listing
 ## 📌 Overview
 - Predict real estate prices based on property features.  
 - Detect fraudulent property listings to prevent scams.  
-- Implemented a complete end-to-end ML workflow with preprocessing, feature engineering, model optimization, evaluation, and deployment preparation.  
+- Implemented a complete end-to-end ML workflow with preprocessing, feature engineering, model optimization, evaluation.  
 
 ---
 
@@ -36,7 +36,6 @@ This project predicts real estate prices and detects fraudulent property listing
 - Hyperparameter tuning with GridSearchCV & RandomizedSearchCV.  
 - Model evaluation using *RMSE, Precision, Recall, and F1 Score*.  
 - Final comparison: Baseline vs Tuned vs Feature-engineered models.  
-- Prepared an interactive Streamlit app (App.py) for predictions & fraud detection.  
 
 ---
 
@@ -47,21 +46,16 @@ This project predicts real estate prices and detects fraudulent property listing
 - *Phase 3 – Hyperparameter Optimization* : Tuned regression & classification models using GridSearchCV and RandomizedSearchCV.  
 - *Phase 4 – Feature Engineering & Data Enhancement* : Implemented Top-K feature selection, correlation analysis, and data enrichment.  
 - *Phase 5 – Project Wrap-Up & Insights Documentation* : Final model comparisons, visualizations (feature importance, predicted vs actual, confusion matrix), and result storage.  
-- *Saved Models/* : Serialized .pkl models for deployment.  
-- *App.py* : Streamlit script (prepared for deployment).  
 
 ---
 
 ## 📊 Results
-- *Best Regression Model* : ✅ Random Forest (Top-K features, Tuned) → Lowest RMSE.  
+- *Best Regression Model* : ✅ Random Forest (Top-K features) → Lowest RMSE.  
 - *Best Classification Model* : ✅ XGBoost (GridSearch Tuned) → Highest F1 Score.  
-- Models exported as .pkl for deployment.  
+- Models exported as .pkl.  
 
 ---
-
-## 🚀 Deployment (Future Work)
-- Streamlit dashboard (App.py) created for interactive predictions.  
-- Next step: Deploy on *Streamlit Cloud* or *Hugging Face Spaces*.  
+  
 
 ---
 
